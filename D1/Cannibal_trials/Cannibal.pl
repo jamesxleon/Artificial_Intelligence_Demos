@@ -1,8 +1,8 @@
-:- [adts]
+:- [adts].
 
 go(Start, Goal) :-
     empty_queue(Empty_been_queue),
-    add_to_queue(Start, Empty_been_queue, Been_queue)
+    add_to_queue(Start, Empty_been_queue, Been_queue),
     path(Start, Goal, Been_queue).
 
 path(Goal, Goal, Been_queue) :-
@@ -17,15 +17,15 @@ path(State, Goal, Been_queue) :-
     
 move(state(X, X, Cannibals), state(Y, Y, Cannibals)) :-
     opp(X, Y), not(unsafe(state(Y, Y, Cannibals))),
-    writelist(['try two missionaries cross the river', Y, Y, Cannibals])
+    writelist(['try two missionaries cross the river', Y, Y, Cannibals]).
     
 move(state(X, Missionaries, X), state(Y, Missionaries, Y)) :-
     opp(X, Y), not(unsafe(state(Y, Missionaries, Y))),
-    writelist(['try two cannibals cross the river', Y, Missionaries, Y])
+    writelist(['try two cannibals cross the river', Y, Missionaries, Y]).
 
-move(state(X, Missionaries, Cannibals), State(Y, Missionaries, Cannibals)) :-
+move(state(X, Missionaries, Cannibals), state(Y, Missionaries, Cannibals)) :-
     opp(X,Y), not(unsafe(state(Y, Missionaries, Cannibals))),
-    writelist(['try one missionary amd one cannibal cross the river', Y, Missionaries, Cannibals])
+    writelist(['try one missionary amd one cannibal cross the river', Y, Missionaries, Cannibals]).
 
 move(state(X, Missionaries, Cannibals), state(X, Missionaries, Cannibals)) :- 
     writelist(['      BACKTRACK from:',X,Missionaries,Cannibals]), fail.

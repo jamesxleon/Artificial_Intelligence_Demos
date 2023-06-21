@@ -3,25 +3,26 @@ from graphviz import Digraph
 import networkx as nx
 import random
 
+#For a deterministic initial state, useful for testing
+INITIAL_STATE = tuple(map(tuple, [[8, 1, 3], [4, 0, 2], [7, 6, 5]])) 
+
 # Define the goal state and the initial state
 GOAL_STATE = tuple(map(tuple, [[1, 2, 3], [4, 5, 6], [7, 0, 8]]))
-INITIAL_STATE = tuple(map(tuple, [[8, 1, 3], [4, 0, 2], [7, 6, 5]])) #For a deterministic initial state
 
-'''
-def randomize_initial_state():
+#Useful to randomize initial states and play around
+#def randomize_initial_state():
     # Flatten the state into a list
-    state = [1, 2, 3, 4, 5, 6, 7, 8, 0]
+#    state = [1, 2, 3, 4, 5, 6, 7, 8, 0]
 
     # Shuffle the list
-    random.shuffle(state)
+#    random.shuffle(state)
 
     # Reshape the list back into a 3x3 grid
-    state = [state[i:i+3] for i in range(0, len(state), 3)]
+#    state = [state[i:i+3] for i in range(0, len(state), 3)]
 
-    return tuple(map(tuple, state))
-'''
+#    return tuple(map(tuple, state))
 
-# Use the function to get a randomized initial state
+# Use this function to get a randomized initial state
 #INITIAL_STATE = randomize_initial_state()
 
 # Create a priority queue for the frontier
@@ -31,6 +32,8 @@ frontier = PriorityQueue()
 G = nx.Graph()
 
 # Define the heuristic function (Manhattan distance)
+# This heuristic works under the assumption that the position of the tiles 
+# in the goal state is known (ordered from 1 to 8 and 0 at the end)
 def heuristic(state):
     distance = 0
     for i in range(3):
