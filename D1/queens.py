@@ -31,7 +31,7 @@ def draw_boards(queen_positions):
         boards.append(draw_board(queen_position))
     return boards
 
-solutions = n_queens(4)
+solutions = n_queens(8)
 
 for solution in solutions:
     print(solution)
@@ -40,3 +40,5 @@ for solution in solutions:
     for row in board:
         print(' '.join(row))
     print()
+
+#puedo encontrar las siguientes soluciones posibles
