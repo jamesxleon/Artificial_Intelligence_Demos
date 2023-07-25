@@ -1,0 +1,1013 @@
+Instruction:
+Señale cuál o cuáles de las siguientes opciones son encuadres de Cámara Alta
+de Gobierno CAG y no definiciones 
+Input:
+a Para la moción Esta cámara privatizaría la educación el primer gobierno
+define hacer de todas las universidades compañías independientes Es
+legítimo que el segundo gobierno defienda una argumentación con base en
+colegios porque también son parte de la educación acusando al primer
+gobierno de que lo que hizo fue un encuadre 
+b Para la moción Esta cámara se arrepiente de la glorificación de la
+experiencia primer gobierno define no existe mayor glorificación de algo que
+convertir ese algo en el criterio por el que defines la realidad por tanto
+definimos este debate como arrepentirnos del empirismo corriente
+filosófica primera oposición lo acusa de sesgar el debate al plano filosófico
+y trae un encuadre laboral que es seguido por las cámaras bajas 
+c Para la moción Esta cámara lamenta la concepción de la Revolución
+francesa como un acontecimiento histórico mayoritariamente positivo 
+el primer gobierno establece que debe evaluarse en términos políticos
+pues supuso el inicio de los valores de la república y el
+empoderamiento de la clase media burguesa El segundo gobierno
+establece que además de un acontecimiento político tuvo un fuerte
+componente de violencia y que es importante evaluar dicho
+componente también aduciendo que su estrategia es un desencuadre
+de cámaras altas 
+Output:
+c Para la moción Esta cámara lamenta la concepción de la Revolución
+francesa como un acontecimiento histórico mayoritariamente positivo 
+el primer gobierno establece que debe evaluarse en términos políticos
+pues supuso el inicio de los valores de la república y el
+empoderamiento de la clase media burguesa El segundo gobierno
+establece que además de un acontecimiento político tuvo un fuerte
+componente de violencia y que es importante evaluar dicho
+componente también aduciendo que su estrategia es un desencuadre
+de cámaras altas 
+Esta pregunta pretende evaluar la capacidad que las personas juezas tienen de
+diferenciar definiciones ampliaciones de definiciones y encuadres y en el caso de
+las definiciones si estas cumplen con los criterios necesarios para ser una definición
+válida 
+La definición aportada en la respuesta a es empleada en el Manual para personas
+juezas y debatientes de CMUDE 2021 pero que ya provenía de versiones
+anteriores de este manual y de su homólogo en lengua inglesa página 48 en la
+versión de CMUDE 2021 El equipo de Primer Gobierno también tiene el deber de
+definir la moción Los debates tratan sobre la moción tal y como la define el Primer
+Gobierno no sobre lo que otras debatientes o juezas en la sala pensaron que
+significaban las palabras de la moción La definición forma el tema del debate Si la
+moción Esta Cámara privatizaría la educación se define como hacer de todas las
+instituciones educativas empresas independientes una definición justa entonces
+de eso se tratará el debate durante el resto de los ocho discursos Sin embargo 
+aunque es una definición justa si es cierto que CBG podrá mantener una
+argumentación basada en los colegios pero esto no será un nuevo encuadre sino
+una ampliación de la definición sección Ampliación de la definición página 54 del
+Manual para personas juezas y debatientes CMUDE 2021 
+En cuanto a la respuesta b la base sobre la que se justifica que esto sea una
+definición es que CAG tiene el derecho de definición no solo de cada uno de los
+vocablos o palabras de la moción sino del conjunto de términos en sí Así se
+explicita en la página 48 del Manual Del mismo modo es necesario resaltar que el
+derecho de definición no hace referencia exclusivamente a cada una de las palabras
+incluidas en la redacción de la moción sino que en ocasiones será necesario
+aportar contenido sobre conceptos que abarcan más de una palabra Tal y como
+menciona la opción de respuesta la glorificación de la experiencia en conjunto
+puede ser interpretada como empirismo de forma que el debate tiene que versar
+sobre si lamentamos el empirismo o no En este caso el trabajo de CAO sólo podría
+ser evaluado como atingente si 
+ Se justifica por qué la glorificación de la experiencia laboral es una
+consecuencia derivada del empirismo o está bajo este paraguas 
+ Se impugna la definición de CAG en este caso es una estrategia que no
+funcionaría pues la definición de CAG cumple con los criterios necesarios
+para ser considerada válida 
+ Se plantea una ampliación de la definición a diferencia del caso de la opción
+a bajo esta definición no podría plantearse una ampliación de la definición 
+pues no se cumple con los criterios necesarios para ello páginas 54 56 del
+Manual En concreto la definición planteada por CAO contradice
+abiertamente a CAG que ha definido la glorificación de la experiencia como
+empirismo porque ha disociado los términos que CAG válidamente interpretó
+como unidad pero además tendrían que haber explicado porqué es
+deficiente tal y como se expone en el Manual La presentación de una
+ampliación de definición deberá mantener cierta congruencia con la definición
+presentada por el Primer Gobierno Cuando las personas debatientes
+intenten introducir una ampliación de la definición deberán justificar con
+suficiencia por qué es que esta es necesaria a través de señalar
+explícitamente las deficiencias en la definición presentada por Primer
+Gobierno así como especificar el tipo de contenido que se pierde en el
+debate y explicar cuál es la relevancia de que eso no ocurra página 55 
+Bajo el paraguas del empirismo perfectamente podría interpretarse la
+glorificación de la experiencia laboral si bien requeriría una justificación de
+por qué dentro del empirismo lo más importante es sus consecuencias en el
+comportamiento de las personas en el plano laboral y por tanto CBG sí
+podría estar haciendo un encuadre bajo la definición de CAG 
+Por último analizamos la respuesta correcta la c En esta respuesta CAG aporta
+un criterio bajo el que evaluar si la Revolución francesa fue un evento
+mayoritariamente positivo así introducen un criterio político que CBG de gobierno
+cuestiona introduciendo un criterio de evento violento Ninguno de estos criterios
+es una interpretación de las palabras de la moción pero además cumplen
+perfectamente con la definición de encuadre página 49 Se define encuadre
+como el enfoque o punto de vista en relación al cual se construyen los impactos que
+un caso pueda tener en el debate o se da contenido a la métrica bajo la cual dicho
+debate debe evaluarse Sin embargo las definiciones cimentan el campo
+argumentativo tanto para el Gobierno como para la Oposición sin definir cual es
+más importante sino desde una mirada neutral que permita un debate justo por
+parte de los cuatro equipos 
+
+Instruction:
+En cuanto a la aplicación del concepto de fiat señale la respuesta o las
+respuestas ciertas de entre las siguientes 
+Input:
+a Para la moción Esta cámara intervendría militarmente en Corea del Norte 
+es fiat de Gobierno decir que existe legitimidad para hacerlo 
+b Para la misma moción de Esta cámara intervendría Corea del Norte 
+Oposición puede proponer como contraplan un aumento de la
+sanciones y de la presión internacional aunque no es fiat que estas
+medidas vayan a funcionar 
+c Para la moción Esta cámara crearía agencias nacionales dependientes del
+poder público destinadas a combatir la desinformación en redes sociales es
+fiat de Gobierno decir que estas agencias van a ser capaces de combatir
+efectivamente la desinformación en redes 
+d Para la moción Esta cámara privatizaría la Sanidad es fiat de Gobierno
+decir que dicha privatización sería fácticamente posible así como que la
+gente estaría dispuesta a ello 
+Output:
+b Para la misma moción de Esta cámara intervendría Corea del Norte 
+Oposición puede proponer como contraplan un aumento de la
+sanciones y de la presión internacional aunque no es fiat que estas
+medidas vayan a funcionar 
+Partiendo de la explicación de las páginas 57 58 en la cual se analiza el fiat en
+mociones políticas vamos a analizar los matices del fiat que validan o invalidan las
+diferentes opciones de respuesta Antes vamos a establecer bien que es el
+concepto de fiat Definimos fiat como la capacidad que otorgamos al gobierno de
+ejecutar una medida política en los términos que ellos establezcan siempre que no
+sean irracionales o extremos asunto también evaluado en el Manual y funcionaría
+tal y como viene reflejado en la respuesta b 
+a Para la moción Esta cámara intervendría militarmente en Corea del Norte 
+es fiat de Gobierno decir que existe legitimidad para hacerlo No podemos
+asumir que las medidas que aplican gobierno u oposición adquieran
+legitimidad solo por el hecho de que pueden hacerlas puesto que la
+legitimidad es una valoración que como debatientes podemos argumentar 
+Para poner un ejemplo práctico que explique por qué esta afirmación es falsa 
+imaginemos la moción EC siendo EEUU invadiría España En esa moción 
+EEUU tiene la fuerza bélica necesaria para invadir dicho país pero no existe
+justificación para ello no es legítimo que lo haga porque España es un país
+soberano y no existen excepciones en esta situación concreta para eliminar
+la soberanía como criterio Por tanto en esta respuesta estábamos
+evaluando dos cosas en concreto a la capacidad de las personas juezas de
+entender que el fiat solo se extiende a la capacidad de ejercer una acción y el
+modo de hacerlo y b que por mucho que nuestro impulso sea pensar que
+existe legitimidad para ejecutar una invasión sobre un país específico no es
+algo que se derive del fiat es valorable analizable y por tanto no podemos
+conceder a un equipo una reducción del estándar de persuasión por lo que
+como panel pensamos que debería pasar 
+b Para la misma moción de Esta cámara intervendría Corea del Norte 
+Oposición puede proponer como contraplan un aumento de la
+sanciones y de la presión internacional aunque no es fiat que estas
+medidas vayan a funcionar Esta opción de respuesta es correcta El fiat de
+oposición analizado también en el Manual está al mismo nivel que el de
+gobierno en las mociones políticas pero para el contraplan que vayan a
+ejecutar Sin embargo el fiat solo se limita a poder ejercer esta acción ni a su
+efecto ni a su aceptación Por eso el fiat de oposición en esta opción se
+limita a poder imponer sanciones pero no al efecto que estas vayan a tener 
+que será un asunto que los equipos tenderán que argumentar tal y como se
+establece en la página 58 del manual Gobierno tiene fiat sobre la capacidad
+de Estados Unidos para invadir pero no sobre la reacción de los actores de
+dicha región el gobierno local los grupos rebeldes ahí instalados etc por
+lo tanto no existe fiat sobre el éxito de dicha invasión Dicho de otro modo 
+Gobierno no puede decir que el gobierno local va a renunciar a las armas y
+va a aceptar de buen grado la intervención estadounidense sin hacer un
+esfuerzo argumentativo para demostrarlo ya que no poseen fiat para eso 
+c Para la moción Esta cámara crearía agencias nacionales dependientes del
+poder público destinadas a combatir la desinformación en redes sociales es
+fiat de Gobierno decir que estas agencias van a ser capaces de combatir
+efectivamente la desinformación en redes esta opción de respuesta tiene
+una de las claves más importante para comprender el concepto de fiat El fiat
+de gobierno en esta moción es exclusivamente sobre la creación de
+estas agencias nacionales que tendrán un objetivo concreto pero no abarca
+el funcionamiento de las mismas Eso es un asunto que los equipos deberán
+justificar debidamente durante sus discursos 
+d Para la moción Esta cámara privatizaría la Sanidad es fiat de Gobierno
+decir que dicha privatización sería fácticamente posible así como que la
+gente estaría dispuesta a ello tal y como establece explícitamente el manual
+en la página 58 y reza como sigue Gobierno tiene fiat en torno a la
+capacidad de prohibición no en torno a que las personas vayan a asumir
+dicha prohibición lo que condiciona en cierta medida el éxito de la misma 
+
+Instruction:
+En la siguiente moción EC obligaría a los sacerdotes a denunciar todos los
+crímenes violentos que conocieran a través de la Confesión CAG defiende que
+esto hará viable atrapar a muchos más criminales CAO explica cómo esto reducirá
+el número de personas que vayan a confesarse y que generará malestar en la
+comunidad religiosa CBG hace una extensión sobre por qué el derecho de
+confesión en estos casos ataca a la igualdad entre las personas porque solo
+tendrían esta impunidad las personas creyentes y b ataca el principio a la vida y la
+dignidad de las víctimas y esto es más importante que la libertad religiosa de una
+minoría CBO explica cómo esto va a hacer que se cometan más crímenes porque
+no tenemos el mecanismo de escape que era la confesión para estos criminales 
+Señale todas las afirmaciones que considere correctas 
+Input:
+a Es probable que CBG gane el debate por explicar cómo es más
+importante el respeto a los principios que una variación mínima del
+status quo 
+b Es probable que CAO quede por encima de CBG pues su caso es más
+tangible 
+c Es probable que CBO quede por encima de CAO pues demuestra un
+perjuicio más grave aunque menos plausible 
+d Es probable que CAG gane el debate pues el clash más importante del
+debate es en qué mundo existen menos criminales sueltos 
+Output:
+a Es probable que CBG gane el debate por explicar cómo es más
+importante el respeto a los principios que una variación mínima del
+status quo 
+Para llegar a la respuesta correcta en esta pregunta hace falta evaluar
+concienzudamente los criterios bajo los que yo como persona jueza evalúo el
+material En definitiva era necesario 1 actuar bajo el estándar de votante inteligente
+ordinaria y 2 no caer en las concepciones instintivas que tengo como jueza sin ver
+si tienen sentido 
+ En la respuesta b la tangibilidad no es per se un criterio para comparar
+casos Por ejemplo seguir una serie de principios morales puede no tener
+consecuencias en el corto plazo o materializarse como la ausencia de una
+acción Ejemplificando esto cuando nuestro criterio moral es respetar la
+libertad de los demás muchas veces nuestra acción es no decirles si nos
+gusta o no cómo van vestidos y por tanto la ausencia de acción que en este
+caso es el silencio es en sí mismo importante La acción tangible es hablar 
+pero es menos importante que respetar mi creencia en la libertad de las
+personas En la opción de respuesta ocurre de igual manera Por tanto solo
+entendiendo que la tangibilidad no es en sí mismo un criterio podríamos
+descartar esta respuesta Del mismo modo y aterrizando sobre una decisión
+más específica sobre el formato BP se trataba de evaluar si los casos
+prácticos deben quedar por encima de los principios No existe una respuesta
+correcta dependerá de cada debate pero por el hecho de ser más tangible
+ práctico un caso no debería quedar directamente por encima de otro 
+ En la respuesta c había que evaluar si nos creemos algo plausible con un
+impacto moderado por encima de algo poco plausible pero con un potencial
+impacto grande Es importante destacar que si un impacto grande no está
+justificado que ocurrirá efectivamente entonces no tenemos razones para
+pensar que dicho impacto vaya a suceder de esta manera Ejemplificándolo 
+tomemos a una persona que dice mañana va a suceder la tercera guerra
+mundial Es un impacto grande pero no existen razones para pensar que
+ello vaya a suceder En este ejemplo vemos muy gráficamente porqué es
+necesaria la mecanización en cuanto a plausibilidad previamente a poder
+validar un impacto Nótese que no estamos hablando en este caso de un
+gran impacto con pocas pero existentes oportunidades de suceder sino de
+un impacto en el que no existe justificación real de cuánto va a ocurrir ni
+porqué es eso mínimamente probable Por eso como jueces es importante
+que analicemos en detalle qué mecanización ofrecen los equipos en cuanto a
+cómo se van a materializar sus impactos y sobre todo no pongamos por
+encima un impacto grande sin analizar antes cuál es su mecanización y su
+plausibilidad demostrada por los debatientes 
+ Para descartar la opción de respuesta d solo hay que aplicar la lógica de ser
+un agente neutral y no entrar a juzgar de oficio No existen justificaciones en
+esa pregunta de porqué ese es el clash más importante por tanto intervenir
+como juez es tratar de manera injusta y sesgada a los equipos 
+ En cuanto a la respuesta correcta la a existe en el enunciado de la
+pregunta una justificación explícita sobre porqué la vulneración de estos dos
+principios es un ataque importante a la sociedad igualdad y a la dignidad de
+las víctimas vs el perjuicio sobre una minoría religiosa libertad religiosa y
+por tanto hay una ponderación de métrica en el debate que debe ser
+evaluada y tomada en consideración 
+
+Instruction:
+Supongamos que es usted la persona jueza principal en una sala para el debate
+con la siguiente moción EC lamenta la salida de EEUU de la OMS en julio de
+2020 CAG explica que la salida de EEUU supuso una pérdida importante de las
+aportaciones económicas de la OMS y eso limitó el alcance de sus acciones 
+dejando a muchas personas desprotegidas CAO en su primer discurso plantea que 
+dado que el problema es económico ellos creen que no debemos lamentar la salida
+de EEUU de la OMS y que proponen que pese a que se salga EEUU de la OMS
+siga pagando su parte En su segundo discurso CAO expone que dicho problema
+económico no existe realmente refutando así a CAG Señale las afirmaciones que
+considere correctas 
+Input:
+a Es probable que CAO gane la comparativa frente a CAG porque ha
+neutralizado su caso 
+b Es probable que CAO pierda la comparativa pues en las mociones de
+lamentar es ilegítimo que Oposición plantee una contramedida 
+c Siendo principal ante la contradicción entre ambos oradores de CAO tendré
+que evaluar el caso asumiendo ambas versiones para ver cuál es la más
+razonable antes de compararla con el resto de equipos
+d CBO podrá elegir cuál de las dos versiones de CAO seguir en vista de su
+contradicción 
+Output:
+b Es probable que CAO pierda la comparativa pues en las mociones de
+lamentar es ilegítimo que Oposición plantee una contramedida 
+La justificación de esta respuesta se concentra principalmente en las explicaciones
+que contiene el manual sobre las mociones de tipo lamentar así como en las
+mociones de tipo político Las mociones de tipo lamentar requieren que los equipos
+hagan un esfuerzo por analizar un contrafáctico que consiste en explicar cómo se
+vería el mundo si no se hubiera realizado alguna medida o acción y cómo se ve el
+mundo en comparación cuando ello sí ocurre Para ello los equipos deberán
+presentar razonamientos que permitan comprender al panel qué tan factible o
+probable es de hecho su contrafáctico En ese sentido la CAO juega con un
+contrafáctico que puede ser poco probable que EE UU siga aportando
+contribuciones económicas a la OMS a pesar de ya no pertenecer a la misma y que
+además es un contrafáctico que se deduce como altamente improbable al tener
+Oposición que defender el statu quo de un mundo donde EE UU no pertenece a la
+OMS con todo lo que ello implica Esto significa que CAO no sólo no presenta un
+análisis del contrafáctico correspondiente para su bancada que consiste en la
+realidad actual de la moción sino que además presenta un elemento que no es
+necesario para debatir mociones de lamentar y que es una contramedida Las
+contramedidas únicamente son requeridas de parte de Oposición y eso en algunos
+casos específicos en las mociones de tipo político dado que generalmente se suele
+discutir algún cambio en el estado de las cosas En las mociones de lamentar se
+debate sobre un acto que concretamente podría decirse que ha ocurrido como el
+hecho de que EE UU se haya salido de la OMS y de las repercusiones pasadas y
+futuras que ello ha tenido Por ejemplo para el lado del gobierno los beneficios
+globales de que EE UU pertenezca a la OMS en las pandemias anteriores como la
+de la influenza en comparación con perder esos beneficios para la pandemia del
+covid 19 y las próximas pandemias 
+A pesar de lo mencionado anteriormente no es correcto que un panel de jueces
+determine las comparativas entre dos cámaras con análisis simplistas de tipo era
+una moción de lamentar y han presentado una contramedida en lugar de un
+contrafáctico ya que es responsabilidad de las personas juezas el evaluar con la
+mayor profundidad y rigor posible lo presentado durante cada discurso En ese
+sentido también se debe considerar el contenido de fondo presentado por ambos
+equipos Si la CAG ha presentado que una de las razones para lamentar la salida de
+EE UU de la OMS es la pérdida de las contribuciones económicas de ese país para
+el combate a enfermedades y luego llega CAO con una contramedida que propone
+que EE UU siga aportando económicamente a pesar de ya no ser miembro de la
+OMS entonces podría decirse que la CAO de alguna manera ha cedido una premisa
+fundamental para el caso de la CAG sobre la necesidad de contar con dichas
+contribuciones económicas Esto no hace más que restar credibilidad al caso de
+CAO Encima si consideramos que la refutación del discurso número dos de CAO
+es negar la existencia de un problema económico cuando su primer discurso
+parece querer rescatar la cuestión económica de EE UU en la OMS es cuando
+existe también un segundo problema de legitimidad dual sobre ambos discursos
+pues parece que contienen premisas contradictorias entre sí lo que implica que un
+panel debería considerar el primer contenido en presentarse y es aquel que
+corresponde al primer discurso de la CAO el cual ya ha sido analizado como
+problemático en distintos niveles 
+En conclusión CAO probablemente perdería la comparativa contra la CAG debido a
+que ha presentado un caso con un planteamiento erróneo y cuyo fondo es deficiente
+para responder de manera coherente y contundente a lo presentado por la CAG 
+
+Instruction:
+Señale cuáles de las siguientes opciones son verdaderas 
+Input:
+a En caso de rolleo el chair puede pedir a uno de sus panelistas que dé el
+feedback 
+b En una top room con un debate de alto nivel el ballot puede retrasarse 5
+minutos además de los 15 para terminar la deliberación dado el nivel de la
+sala 
+c En un debate sobre una moción de lamentar CBG tiene que seguir el
+contrafáctico de CAG si aquel fue razonable 
+d El incumplimiento de rol debe afectar a la persuasividad general de un
+equipo 
+e Un equipo que hace una definición ardilla debe quedar en cuarto lugar 
+f Si acaba habiendo un debate de definiciones durante todo el debate los
+equipos deberían ser castigados en puntos de persona oradora 
+g Si una persona jueza por su conocimiento específico del tema de la moción 
+sabe que un equipo da una información fácticamente falsa y otro equipo
+denuncia este hecho puede descartar dicha información 
+h Existen casos en los que no es necesario que un equipo mecanice
+ciertas partes de su argumentación 
+Output:
+a En caso de rolleo el chair puede pedir a uno de sus panelistas que dé el
+feedback 
+c En un debate sobre una moción de lamentar CBG tiene que seguir el
+contrafáctico de CAG si aquel fue razonable 
+h Existen casos en los que no es necesario que un equipo mecanice
+ciertas partes de su argumentación 
+ Respuesta a Correcta De acuerdo a lo establecido en el manual y en el
+reglamento de CMUDE cuando la persona encargada de brindar el feedback 
+que es la persona jueza principal se encuentra en la posición minoritaria en
+la votación de una comparativa es cuando ésta persona puede solicitarle a
+alguna persona del voto mayoritario su intervención para justificar una
+comparativa Esto en función de que es probable que al estar en desacuerdo
+con la comparativa final la persona principal se encuentre incapacitada para
+brindar un feedback coherente y que refleje la postura del voto mayoritario 
+ Respuesta b Incorrecta No hay ninguna justificación para que el panel de
+jueces amplíe el tiempo delimitado previamente para la deliberación El buen
+desenvolvimiento del torneo depende de la cooperación de todos sus
+participantes por lo que solicitamos responsabilidad en el manejo del tiempo 
+ Respuesta c Correcta De acuerdo a lo establecido en el manual de debate
+del CMUDE si la CAG ha presentado un contrafáctico razonable la CBG
+tiene la obligación de seguirlo Únicamente se puede presentar un
+contrafáctico novedoso cuando el que ha sido presentado por la CAG es
+problemático porque limita el debate en gobierno al tomar una postura que no
+es defendible no presenta contenido exclusivo cuando es autocomprobatorio
+o cuando el contrafáctico de CBG consiste en una profundización de la
+caracterización del contrafáctico de CAG tomando como referencia y base lo
+presentado por CAG 
+ Respuesta d Incorrecta La persuasión de un caso se concentra en los
+aspectos de fondo del contenido del mismo y si bien los elementos de
+cumplimiento de rol podrían facilitar a que un caso sea más persuasivo estos
+no son determinantes para decidir que un caso es menos persuasivo cuando
+ha habido incumplimiento en el rol El cumplimiento de rol es un elemento
+que debe evaluarse en los puntos de persona oradora y no debe ser
+considerado en la asignación de resultados de equipo 
+ Respuesta e Incorrecta En debate en formato parlamentario británico no
+existen cuartos lugares automáticos y las personas juezas deberán ponderar
+con profundidad las contribuciones de las personas debatientes de manera
+holística Es probable que un equipo que presenta una definición ardilla
+presente también algunos otros problemas relacionados con su caso sin
+embargo no implica jamás que tienen una postura de facto asignada por
+cometer un error específico porque también podría ser probable que un
+equipo que presente una definición ardilla pueda presentar un contenido
+relevante con la excepción de la definición 
+ Respuesta f Incorrecta El contenido del debate se evalúa a través de la
+asignación de posiciones de equipo 1er 2do 3er y 4to lugar Los elementos
+del estilo se evalúan directamente en los puntos de persona oradora Es
+probable que personas oradoras que debatieron sobre definiciones en un
+debate hipotético puedan ser excelentes personas oradoras de acuerdo a lo
+establecido en la Tabla de Varsovia así como es igualmente probable que
+esas personas sean oradoras promedio de acuerdo con la misma tabla En
+todo caso son aspectos que se evalúan de forma diferenciada 
+ Respuesta g Incorrecta En ningún momento el panel de jueces descarta
+información presentada durante un debate dado que toda la información es
+relevante para determinar las posiciones especialmente en comparativas que
+sean particularmente cerradas Es probable que argumentos que enfrenten
+denuncias de ser falsos sean menos persuasivos y creíbles en comparación
+con otro tipo de argumentos pero se deben seguir teniendo en cuenta para
+poder elaborar justificaciones y presentar análisis de comparativas 
+Adicionalmente una persona jueza jamás debe hacer uso de su
+conocimiento específico bajo ninguna circunstancia Solamente podría
+decirse que un panel de jueces descarta información de un debate cuando
+las personas que hacen discurso de látigo introducen contenido
+argumentativo novedoso y que no puede ser derivado del discurso de su
+extensionista así como cuando también se presenta contenido abiertamente
+contradictorio entre dos personas de una bancada Para ello no es necesario
+que exista una denuncia de parte de alguna persona debatiente 
+ Respuesta h Correcta Es posible que haya elementos de información en
+algunos casos que sean de suma obviedad como el hecho de decir que la
+pandemia del covid 19 es un asunto de mucha gravedad y que no deberían
+ser susceptibles de una demostración argumentativa extenuante para ser
+tomados como válidos por un votante promedio informado También es
+probable que haya elementos que son presentados por las diapositivas
+informativas de parte del Equipo de Adjudicación y que deberán ser
+valoradas como verdaderas por los equipos y el panel de jueces por lo que
+tampoco requieren una explicación ardua En todo caso el panel deberá
+considerar y evaluar aquellos elementos que no requieren una explicación
+profunda para ser considerados como verdaderos o probables de aquellos
+que sí la requieren 
+
+Instruction:
+En un debate en el que CAG y CAO están muy ajustados si sale CBG y refuta
+por completo a CAO haciendo que el caso de CAO quede muy endeble Lo más
+probable es que CAG gane a CAO Verdadero o falso 
+Input:
+a Verdadero
+b Falso
+Output:
+b Falso
+En debate BP cada equipo compite contra los otros de forma independiente Incluir
+lo que ha hecho CBG para juzgar la labor de CAG frente a CAO sería una
+comparativa triple algo incorrecto y tremendamente injusto pues no hay posibilidad
+de respuesta Esto es explicado en el apartado 4 1 del Manual de CMUDE
+ Definiendo los resultados en el que se recuerda que los juicios deben ser
+holísticos y comparativos además de que es importante identificar correctamente el
+engagement directo entre dos equipos en específico De igual manera que Primer
+Gobierno no puede ganar a Primera Oposición gracias a un argumento que saca
+Segundo Gobierno Primer Gobierno no podrá ganar la Primera Oposición gracias a
+una refutación del Segundo Gobierno p 65 
+
+Instruction:
+CAG trae un caso que es atacado con muchísima fuerza por CAO con la
+refutación X al punto que su caso pierde mucha capacidad de persuasión La
+métrica que presenta CAG en el debate es la más intuitiva y está explicada su
+relevancia CAO además trae material constructivo con un nivel suficiente de
+análisis en la misma métrica de CAG Sale después CBG afirma que la métricas de
+altas es incorrecta enuncia una nueva métrica y aporta material bien construido
+sobre su nueva métrica CBO entra al debate y usa la misma lógica de la refutación
+ X para responder a CAG Además de eso traen algo más de material jugando en
+la métrica de cámaras altas y este sirve para probar cosas ya analizadas por su alta
+de forma suficiente pero con más mecanismos Marque las opciones verdaderas 
+Input:
+a La lógica X que usó CAO funcionó para ganar a CAG CBO la usó también 
+entonces por transitividad también le gana a CAG 
+b El látigo de CBO explica lo siguiente El punto X probado por ambas
+oposiciones es el más relevante del debate por las razones 1 2 y 3 No
+obstante el delta del argumento es fuertemente dependiente Acto seguido 
+compara los mecanismos de CAO contra los de su cámara dando análisis de
+cómo los propios son mejores y más profundos Sin embargo como eso no
+fue explicado por su extensionista no puede ser tomado en cuenta en este
+debate 
+c Debido a que CBO trae más mecanismos que CAO para probar sus puntos 
+ganan la comparativa de oposiciones 
+d CBG probablemente gane el debate
+e CAO probablemente gane el debate
+Output:
+e CAO probablemente gane el debate
+No hay tal cosa como la transitividad en debate BP Como se decía en la pregunta 6 
+es necesario evaluar a los dos equipos por separado por lo que la respuesta a no
+es correcta En los escenarios abajo analizados volveremos sobre este punto
+En la opción c debe recordarse que Los equipos de Cámaras Bajas no ganan
+presentando adiciones mínimas a puntos ya bien probados p 60 del Manual y
+aunque pruebe algo de forma diferente o novedosa CBO no puede obtener crédito
+por ello cuando ya había sido probado de forma suficiente por su Alta No
+juzgamos al peso más no siempre es mejor 
+Por otro lado no es correcta la opción d porque no es suficiente con afirmar que
+la métrica de las cámaras altas es incorrecta es preciso demostrar por qué y
+además justificar por qué la nueva métrica es más importante que la de las altas
+para ser comparativo y ganarlas cuando en cámaras altas ya se había justificado
+una métrica léase el apartado Valorando distintas métricas pp 33 35 del Manual 
+Aprovechamos entonces para repasar algunos escenarios en los que existen varias
+métricas y la forma de juzgarlas 
+ En altas se enunció una métrica en bajas se enunció otra evaluamos 1
+ existen razones implícitas en los discursos de los oradores que hagan
+pensar que una de las dos métricas importa más En caso negativo 2 como
+votante promedio informado cuál es más importante 
+ En altas se enunció una métrica en bajas se justificó otra métrica es
+altamente probable que la métrica de bajas se imponga como criterio para
+juzgar lo más importante del debate Un detalle aquí y es que las cámaras
+bajas deberían ofrecer un POI a las altas anunciando una nueva métrica 
+para ofrecer oportunidad de hacer engage En caso contrario debería
+elevarse el estándar de persuasión de las bajas 
+ CAG enunció la métrica A CAO justificó la métrica B y CBG justificó la
+métrica A ganando a CAO Es injusto y una forma de arrastre que CAG
+quede por encima de CAO cuando solo enunció una métrica y antes de salir
+CBG era obvio que la métrica de CAO ganaba en la comparativa Rogamos
+encarecidamente a los jueces que sean cuidadosos a la hora de evaluar las
+métricas pues los arrastres en este campo son frecuentes y nada fáciles de
+evaluar si no estamos extremadamente pendientes de ellos
+
+Instruction:
+En una moción tipo EC Prefiere un mundo Oposición puede proponer un
+mundo alternativo 
+Input:
+a Verdadero
+b Falso
+Output:
+b Falso
+No es posible esa propuesta El Manual es explícito a este respecto al señalar cuál
+es la carga de la prueba por parte de la Oposición en este tipo de mociones y no es
+legítimo para los equipos de dicha bancada inventar otra p 39 
+ Las mociones que siguen el esquema Esta cámara prefiere X funcionan de la
+misma manera que otros debates analíticos con una diferencia importante ya que
+los equipos de la Oposición están obligados a defender la comparación específica
+que proporcione la moción 
+ En las mociones del tipo ECP X a Y oposición debe defender Y
+ En las mociones del tipo ECP X oposición debe defender el statu quo 
+
+Instruction:
+Los primeros oradores de cada equipo son los únicos que pueden presentar un
+plan de acción teniendo que modelarlo de forma suficiente a diferencia de las
+alternativas 
+Input:
+a Verdadero
+b Falso
+Output:
+a Verdadero
+De nuevo el Manual no deja margen a la interpretación Así como solo el Primer
+Gobierno tiene derecho a establecer un plan de acción para el lado del Gobierno y
+debe hacerlo en el discurso de la Primera Ministra solo la Líder de la Oposición
+puede establecer un plan alternativo para el lado de la Oposición p 57 Permitir
+que segundas oradoras presenten los planes daría lugar a un debate caótico y
+reduciría considerablemente las oportunidades de interacción entre ellos por lo que
+no sería justo 
+
+Instruction:
+Explique la diferencia entre caso y argumento 
+Input:
+Output:
+Esta respuesta es abierta por lo que fue revisada de manera personal por algún
+integrante del Equipo de Adjudicación La respuesta esperada debía ser capaz de
+distinguir entre la función de ambos elementos Un caso es el conjunto de
+elementos presentados por los equipos y que puede consistir en argumentos 
+refutaciones análisis de métrica análisis del costo de oportunidad ponderaciones 
+caracterizaciones y análisis de exclusividad entre otras cosas El caso es el
+planteamiento general de un equipo hacia la moción y el lado que le ha tocado
+defender por lo que podría decirse que el caso es una línea de ataque para
+defender su postura Los argumentos son un elemento contenido dentro del caso y
+que consisten en la construcción y demostración de ideas a través de premisas 
+razonamientos ejemplos mecanismos e impactos y que ayudan a comprender un
+motivo por el cual se sostiene la postura que le ha sido asignada a un equipo y que
+además ha sido delimitada por el caso 
+
+Instruction:
+Explique qué consideraciones debe tomar en cuenta para la deliberación en un
+debate en el cual la persona Vicelíder de la oposición trae los argumentos más
+relevantes de CAO 
+Input:
+Output:
+Esta pregunta sobre criterios a la hora de valorar el conocido como hung case es de
+respuesta semiabierta pero debe tener en cuenta las palabras del Manual en su
+página 34 Si no se ofrecen puntos de información en este sentido debería
+elevarse el estándar de persuasión al igual que sucede con el material novedoso de
+la vicelíder de Oposición Esto quiere decir que en el supuesto que nos plantea la
+pregunta ha de tenerse en cuenta qué oportunidades tuvo la Cámara Alta de
+Gobierno de responder al material novedoso de CAO en el turno de Vicelíder En el
+caso de que CAG haya solicitado un punto para contestar a esta nueva
+argumentación y no se le haya concedido el nuevo material entrará en la
+comparativa de cámaras altas Además las personas del panel deberían
+preguntarse primero si hay algo inherente en el caso del equipo que ha hablado
+primero que sirva como respuesta p 31 
+En cualquier caso esta estrategia por parte de CAO no afecta de ninguna manera a
+las comparativas con las otras cámaras CBG y CBO que disponen de
+oportunidades suficientes para interactuar con esos argumentos más relevantes
+presentados de forma tardía 
+
+Instruction:
+Eres principal en la sala top de la ronda 9 de CMUDE 2021 Hay a dos personas
+más en el panel muy buenas pero no existe un consenso sobre las posiciones e
+incluso aunque has guiado la deliberación de la mejor manera posible todes tienen
+una visión diferente del debate que acaba de suceder Las posiciones quedan de la
+siguiente forma según tu perspectiva 1 CAG 2 CAO 3 CBG 4 CBO Las
+personas panelistas creen que el debate debe quedar de la siguiente manera 1 
+CBO 2 CAG 3 CBG 4 CAO y 1 CBG 2 CAO 3 CAG 4 CBO El tiempo de
+deliberación se ha terminado y es hora de votar Cómo deberían quedar las
+posiciones 
+Input:
+Output:
+Esta es una pregunta semiabierta en la cual se valora el criterio y argumentación de
+la persona jueza 
+Se trata de una situación de extremo disenso en la cual votar por comparativas 
+como suele hacerse puede dar lugar a un resultado incoherente pues se producen
+ triángulos que no resuelven los resultados y son tremendamente difíciles de
+explicar En estos casos lo recomendado por el Manual sección Sistema de
+votación pp 66 67 es que el panel vote directamente las posiciones del debate y
+no las comparativas Sólo cuando las personas en el panel no tienen acuerdos
+sobre ninguna comparativa Esta forma de votación asegura un resultado y una
+justificación más clara y justa para los equipos en la sala 
+Votando por posiciones teniendo en cuenta que la persona jueza principal cuenta
+con voto de calidad en caso de empate los resultados quedan de la siguiente forma 
+1 CAG 2 CAO 3 CBG 4 CBO 
+Entendemos que en esta pregunta una vez votado por comparativas el
+resultado solo difiere en una comparativa 2 vs 3 pero el call final previo a la
+votación nos ofrecía un escenario en el que ningún miembro del panel ponía a
+un equipo en la misma posición Aun así y entendiendo que es un cambio
+sustantivo en el manual esta pregunta ha sido considerada como un punto
+extra adicional al total del examen de forma que aquellas personas que
+eligieron votar por posiciones o aquellas personas que justificaron
+adecuadamente en el recuadro final su elección de votar por comparativa
+recibieron este punto Por tanto era posible sacar la nota máxima del examen
+sin contar con esta pregunta 
+
+Instruction:
+Seleccione los enunciados más correctos sobre Puntos de Información 
+Input:
+a En caso de que una cámara no dé puntos de información en el debate el
+material de su caso pierde valor comparativo contra la contraparte 
+b En caso de que una cámara no de puntos de información durante el
+debate los discursos pueden ser penalizados con una reducción en
+puntos de persona oradora 
+c Cuando una cámara da más de 3 puntos implica que los discursos recibirán
+una bonificación en puntos de persona oradora 
+d En comparativas cerradas la decisión entre qué cámara gana la
+comparativa puede ser decidida por el nivel de engagement es decir si
+se tomaron o no puntos de información por parte de alguna de las dos
+cámaras 
+e Los puntos de información se deben de evaluar durante la deliberación
+y deben ser parte de la justificación de las comparativas 
+f En caso de que un equipo no de puntos de información se debe evaluar
+como que el punto que no tomó pudo haber sido destructivo para su caso
+cuando se evalúa la comparativa de estas cámaras 
+g En caso de que las cámaras contrarias no soliciten hacer puntos de
+información en el discurso de una cámara ese discurso puede ser penalizado
+en puntos de persona oradora si durante el discurso no se abrió el espacio
+para puntos ej diciendo en este momento daré punto a la baja y si no a la
+alta 
+h El número de puntos recomendados que tomar es 3 por cámara aunque
+un equipo que no lo haga puede seguir ganando el debate 
+Output:
+b En caso de que una cámara no de puntos de información durante el
+debate los discursos pueden ser penalizados con una reducción en
+puntos de persona oradora 
+d En comparativas cerradas la decisión entre qué cámara gana la
+comparativa puede ser decidida por el nivel de engagement es decir si
+se tomaron o no puntos de información por parte de alguna de las dos
+cámaras 
+e Los puntos de información se deben de evaluar durante la deliberación
+y deben ser parte de la justificación de las comparativas 
+h El número de puntos recomendados que tomar es 3 por cámara aunque
+un equipo que no lo haga puede seguir ganando el debate 
+Esta pregunta valora que las personas juezas consideren los Puntos de Información
+en su contexto en vez de emplearlos como un automatismo Es por ello que la
+respuesta a es incorrecta pues el material no pierde valor comparativo sino valor
+persuasivo y debe ser valorado en su construcción por parte del panel En el
+Debate Parlamentario Británico la persuasión de un argumento se fundamenta en el
+número de razones plausibles que se ofrecen para demostrar que el argumento es
+verdadero e importante lo que llamamos análisis o fondo y la claridad y el poder
+retórico con el cual estas razones se explican lo que llamamos estilo o forma 
+ p 24 del Manual 
+La respuesta b es correcta como manifiesta la última versión del Manual Por
+ejemplo el panel de jueces puede reducir los puntos de persona oradora de cada
+debatiente que no haya aceptado PdI para reflejar su nivel reducido de interacción 
+ajustar el margen de victoria de equipos o voltear el resultado en comparativas
+cerradas entre equipos p 13 Es importante recalcar que esto no es una
+obligación para el panel y que no conceder PdI no implica automáticamente una
+reducción de puntos de persona oradora En la misma cita del manual podemos
+deducir que la respuesta d también es correcta 
+Como vemos en esa misma sección del Manual se espera que las personas
+oradoras tomen al menos un PdI en cada uno de sus discursos y se les anima
+fuertemente a que tomen tres PdI totales por equipo p 11 pero concederlos no
+supone premio alguno por lo que no puede ser válida la respuesta c 
+De nuevo citando el Manual hallamos que la opción e es verdadera Los PdI son
+un componente importante de las rondas de debate Es responsabilidad del panel
+de jueces evaluar la interacción con los PdIs durante la ronda El panel de jueces
+también debería comentar la interacción que ha existido entre debatientes a través
+de PdI en su explicación de resultados a los equipos p 12 
+La opción f es explícitamente desterrada por el Manual de CMUDE En ocasiones
+se ha sugerido que negarse a tomar un PdI es equivalente al daño generado al
+tomar un PdI muy destructivo Sin embargo esta no es la forma apropiada de
+evaluar este error Una jueza nunca debería dar crédito a equipos por argumentos
+que no hayan construido o que no hayan sido presentados p 13 
+Tampoco es correcta la opción g Si bien el Manual dice que una oradora en
+estas circunstancias puede pedir explícitamente que se le haga un PdI y haciéndolo
+demostrará una voluntad de interactuar con los argumentos de los demás equipos 
+incluso si a continuación no se le ofrece ningún PdI p 13 esto es un consejo y no
+una obligación En general el debate BP huye del juicio por castigo más propio de
+otras disciplinas Esto es de extrema importancia en CMUDE los jueces no
+estamos para castigar acciones que nuestro juicio son incorrectas o deberían
+ejecutarse de otra manera y debemos mantenernos como evaluadores
+neutrales y ajenos al debate salvo extrema necesidad en cuyo caso
+deberemos hacer esfuerzos activos por tomar el papel de votante inteligente
+ordinario apartando los sesgos personales en la meyor medida posible 
+Como se veía al hablar de la respuesta c es aconsejable que los equipos tomen 3
+puntos pero no hacerlo TAMPOCO SIGNIFICA que no pueda ganar el debate p 
+13 por lo que la opción h es cierta 
+
+Instruction:
+Si un equipo se contradice a sí mismo las personas juezas solo deberán dar
+crédito al primer argumento expuesto e ignorar lo posterior que lo contradiga esa es
+la única afectación que tendrá la contradicción interna a su caso 
+Input:
+a Verdadero
+b Falso
+Output:
+b Falso
+El supuesto de la pregunta es falso dada que ignorar lo posterior no es la única
+afectación al caso que internamente se contradice Además de no acreditar
+argumentos contradictorios las juezas también pueden considerar el grado en el
+que la contradicción ha minado la fuerza de los argumentos del equipo cuando
+evalúen la contribución de dicho equipo al debate Si la oradora o el equipo se
+contradicen directamente en momentos avanzados de sus discursos esto debilita
+sus propios puntos y debería ser considerado durante la deliberación a la hora de
+determinar cómo de plausible es su argumento de forma similar a una situación en
+la cual un equipo rival ofreciera esos argumentos en refutación a la persona
+oradora p 28 Ahora bien si una oradora claramente comete un lapsus al
+comienzo de su discurso y se corrige después no debería sufrir el descarte del
+resto de su discurso simplemente porque contradice lo que dijo primero ídem 
+
+Instruction:
+En un debate en el que CBG hace refutaciones efectivas el caso de CAO pero
+no aporta argumentos nuevos 
+Input:
+a Las refutaciones son material de extensión por ende CBG le puede
+ganar a CAO y CAG
+b CBG le puede ganar a CAO al responder su caso pero no a CAG al no tener
+extensión sustancial 
+c CBG no le puede ganar ni a CAO ni a CAG puesto que no argumentó 
+d CBG le puede ganar a CAG si CAG no había refutado a CAO pero solo las
+refutaciones no son suficientes para ganarle a CAO 
+Output:
+a Las refutaciones son material de extensión por ende CBG le puede
+ganar a CAO y CAG
+Es posible que un equipo gane únicamente aportando refutaciones pues estas son
+un material de extensión válido sección del Manual Extendiendo el debate 
+Discursos de las personas Miembros Si refuta efectivamente al caso de CAO 
+CBG puede ganar a dicha cámara y si las refutaciones suponen una contribución
+novedosa también puede derrotar a su cámara Alta por lo que la respuesta a es
+correcta ya que Una extensión ganadora sacará material que sea más efectivo
+ constructivo o refutativo a la hora de persuadir a la jueza de que la moción debe
+ser afirmada o rechazada p 45 
+La opción b puede parecer correcta ya que es poco probable que un equipo de
+Cámara Baja que contribuye con una extensión mínima haya presentado material
+más persuasivo que su Cámara Alta ídem Sin embargo poco probable no
+significa imposible y dada la redacción del enunciado cabe perfectamente
+interpretar que unas refutaciones efectivas sí son una extensión sustancial 
+Es claramente incorrecta la opción c porque ya el mismo enunciado nos dice que
+CBG sí argumentó aunque sus argumentos no fueran nuevos 
+Igualmente es inválida la opción d puesto que como explicamos en la pregunta 6 
+las comparativas deben ser bilaterales y no triples por lo que no importa qué hizo
+CAG para juzgar la diagonal corta CAO CBG en la que debemos valorar la
+interacción entre estos dos equipos 
+
+Instruction:
+Juzgas un debate en el que hay dos choques significativos en altas Cada una
+de las cámaras altas gana uno de estos choques pero ninguna explica por qué el
+que gana es más relevante que el otro Cuál es de los siguientes criterios deben
+ser considerados para determinar quién gana la comparativa de altas 
+Input:
+a El grado con el que cada equipo gana su choque 
+b Las refutaciones que hacen las bajas a sus casos 
+c Si las bajas ponderan uno de los choques como más relevante 
+d El engagement que hacen ambas altas incluyendo PdI 
+e Si CAG tuvo capacidad de responder material que haya salido en
+Vicelíder de Oposición 
+f Razones implícitas que las personas oradoras hayan dado sobre cuál
+choque es más relevante
+g Qué cámara tuvo discursos estilísticamente mejores 
+Output:
+a El grado con el que cada equipo gana su choque 
+d El engagement que hacen ambas altas incluyendo PdI 
+e Si CAG tuvo capacidad de responder material que haya salido en
+Vicelíder de Oposición 
+f Razones implícitas que las personas oradoras hayan dado sobre cuál
+choque es más relevante
+Para responder a esta pregunta debemos tener en cuenta lo indicado en la sección
+del Manual Valorando distintas métricas pp 33 35 Dado que no hay métricas
+explícitas aplicamos el tercer inciso hay un criterio o principio que un equipo en
+la ronda haya demostrado ser verdadero e importante Es decir si existen al menos
+dos métricas diferentes en la sala la evaluación que debería hacer el panel es
+analizar cuál de las dos métricas fue más persuasiva en función del análisis de la
+importancia de dichas métricas por parte de los equipos En caso de que tampoco
+nos sirva se deberá analizar si hay razones implícitas con las cuales comparar 
+por lo cual resulta correcta la opción d En este mismo apartado se explica que el
+material novedoso de Vicelíder tiene un estándar de persuasión más elevado
+cuando no se ofrecen oportunidades de engage con CAG por lo que también es
+correcta la opción e 
+Dado el enunciado cabe entender que se trata de una comparativa cerrada entre
+los equipos con un equipo ganando un choque cada uno y sin explicación por la
+cual priorizar uno sobre otro Es por ello que el panel debe recurrir a criterios sutiles 
+en este caso los Puntos de Información como ya se señalaba en la explicación de
+la pregunta 13 Así la respuesta d es correcta pues el grado de interacción de
+cada cámara materializado entre otras cosas a través de los PdI puede y debe ser
+un criterio de desempate en una comparativa cerrada 
+Por último debe solucionarse en qué medida cada equipo ganó su choque la
+respuesta a como criterio de desempate ya que Lo que importa una vez que se
+formula un argumento es cuán importante parece ser su conclusión para el debate
+con respecto a las cargas que cada lado está tratando de probar y el grado en que
+el argumento parece ser analizado y respondido en las refutaciones y qué tan bien
+fue defendido contra dichas respuestas p 25 
+Lo que hagan las Bajas es irrelevante a la hora de decidir los resultados de la
+comparativa entre cámaras altas como ya hemos explicado en preguntas
+anteriores por lo que cabe descartar las opciones b y c 
+La respuesta g no puede ser válida ya que Hay ciertos aspectos que no son
+relevantes por sí mismos al evaluar cuán bueno es el análisis de una oradora 
+ El número de argumentos que aportan las oradoras 
+ Cómo de inteligentes u originales fueron los argumentos 
+ Cómo de interesantes fueron los argumentos ídem 
+Además el Manual recalca que los juicios subjetivos de buen estilo no deberían
+tener peso al juzgar el debate de BP en un torneo internacional 
+
+Instruction:
+Para impugnar una definición presentada por la Primera Ministra que incumple
+con el reglamento Líder de Oposición debe 
+Input:
+a Establecer claramente que está impugnando la definición 
+b Mencionar el artículo del reglamento que le permite impugnar la definición 
+c Explicar las razones por las que la definición incumple con el
+reglamento 
+d Presentar nuevas definiciones dentro de los parámetros del reglamento 
+Output:
+a Establecer claramente que está impugnando la definición 
+c Explicar las razones por las que la definición incumple con el
+reglamento 
+d Presentar nuevas definiciones dentro de los parámetros del reglamento 
+De acuerdo con el manual La Líder de la Oposición puede impugnar la definición si
+viola la cláusula 2 1 3 de este reglamento La Líder de la Oposición debe dejar
+sentado claramente que está impugnando la definición p 96 además La
+responsabilidad de establecer que la definición es inadmisible es de las oradoras
+que afirman que la definición es inadmisible y Si la definición es inadmisible la
+Oposición debe presentar una definición alternativa que debería ser aceptada por la
+jueza siempre que no sea inadmisible Por lo tanto son correctas las respuestas a 
+c y d Líder de Oposición para impugnar la definición tiene que explicitar que lo va
+a hacer dar razones para ello y además proporcionar otra definición No se exige
+que recite el reglamento por lo que la opción b no es correcta 
+
+Instruction:
+Es imposible que el equipo donde se encuentra la persona que obtuvo más
+puntos de orador dentro del debate haya obtenido cualquier otro resultado que no
+sea primer lugar
+Input:
+a Verdadero
+b Falso
+Output:
+b Falso
+La afirmación es falsa El Manual establece solamente que los puntajes de las
+oradoras combinados para los dos oradoras en cada equipo deben ser compatibles
+con el ranking que recibieron p 70 por lo que el segundo equipo no puede tener
+más puntos que el primero Ello no es óbice para que el mejor discurso del debate
+esté en el segundo equipo Por ejemplo un equipo ganador con discursos en la
+media y una dupla muy equilibrada 75 75 speakers puede derrotar a un equipo
+cuya primera persona oradora lograse un discurso brillante por encima de la media 
+pero con una segunda oradora que realizó un trabajo promedio sensiblemente peor
+ 76 73 
+ 
+Instruction:
+Evaluación de un debate de cámaras altas
+Input:
+OG hace un buen trabajo en identificar los problemas más graves relacionados con
+la justicia y sus diferentes agentes y el acceso o respuesta que tienen hacia ella las
+personas que forman parte de grupos vulnerables al explicarnos cómo es que existe
+un sesgo de las a partir de contar con instituciones racistas y clasistas Sin
+embargo este punto es algo que la OO no tiene problemas en aceptar como
+verdadero debido a que es algo que se puede incluso deducir respecto del
+planteamiento de la moción de la redacción El problema existe y es claro y evidente
+y eso hace que esa contribución de parte de OG sea poco relevante y útil para
+abogar por su propio caso especialmente cuando una buena parte de los dos
+discursos está relacionada con la necesidad de demostrar que hay un problema 
+30 
+Esto deja poco espacio para la construcción y profundización de los argumentos de
+OG 
+Específicamente los problemas para su caso se concentran en los dos argumentos
+presentados sesgos de las autoridades que incluye el punto de la visibilización y el
+argumento sobre la realidad que incluye el punto del cambio del sistema cuando
+desconfías del mismo Hay prácticamente un análisis nulo para demostrar la
+relación entre la medida de hacer que los padres eduquen a sus hijos para
+desconfiar de las autoridades y el sistema judicial y ambos argumentos En ese
+sentido el caso de la OO presenta respuestas eficaces y contundentes ante un caso
+cuyos planteamientos son confusos y débiles La LO primero denuncia que no hay
+un análisis de parte de OG para demostrar que la no confianza en el sistema judicial
+se traduce en un incremento en la visibilización de los casos especialmente cuando
+es probable asumir que en el statu quo existen medios de comunicación que se
+encargan de visibilizar el problema También hay una explicación de cómo incluso la
+visibilización es más factible cuando hay una denuncia y el sistema no responde en
+comparación con no denunciar y no tener evidencia de que el sistema no responde 
+En segundo lugar hay un análisis completo de la LO que si bien también podría ser
+susceptible de respuestas contundentes porque no hay un análisis de la
+probabilidad de que haya algún cambio estructural cuando nos explica que un
+mundo donde las personas vulnerables no acuden a hacer denuncias es un mundo
+donde también las autoridades tienen menos incentivos o información para actuar
+en la atención de problemas generados por los elementos de justicia o incluso en
+delitos que no son generados por dichos elementos 
+Las respuestas obtenidas de parte del discurso del VPM son insuficientes para
+contener lo presentado por la LO VPM responde que es imposible saber cuáles
+elementos de justicia son buenos y malos cosa que jamás es puesta en entredicho
+por la Lo pero sí afirma que es probable que no haya que desconfiar de todo el
+sistema en términos absolutos VPM afirma que el proceso de denuncia es
+revictimizante aunque no hay un esfuerzo por ponderar ese daño con el beneficio
+que presenta la LO al hacer las denuncias y dotar al sistema de información para
+que sea más probable presentar un cambio aún sea uno de carácter meramente
+marginal Encima es posible deducir una leve ponderación en el discurso de LO al
+presentarnos el daño de no denunciar y presentarnos el contenido de su argumento
+número dos sobre el backlash y la existencia de un resentimiento dual que también
+se cocina del lado de las instituciones y que termina legitimando los oídos sordos
+de la autoridad así como la necesidad de represión Las últimas dos respuestas al
+discurso de la LO son extremadamente débiles al mencionar que en el lado de OO
+no hay cambio y que el sistema es uno diseñado para proteger a las personas
+blancas ambos puntos sin ningún tipo de análisis o profundización significativa más
+allá de ser una simple recusación del caso contrario 
+31 
+La reconstrucción que VPM hace de su propio caso consiste en decir que la
+confianza implica la espera de un beneficio que jamás se va a obtener contra no
+confiar y que el sistema cambie No hay tampoco un análisis constructivo que ayude
+a creer que esto efectivamente es así y es poco persuasivo por la falta de
+respuestas contundentes a los planteamientos iniciales de la Lo cuando se explica
+que el caso de Oposición no necesariamente consiste en decir que las personas
+deben confiar a ultranza sino poder discernir los escenarios donde valga la pena
+hacerlo frente a los que no 
+Ojo que a este momento del debate es bastante claro que el caso de OG presenta
+deficiencias significativas en el planteamiento y en la construcción argumentativa 
+además de poca capacidad para responder de manera contundente a las críticas y
+refutaciones presentadas por el primer discurso de OO Ojo también que hasta este
+punto apenas se ha mencionado el contenido argumentativo presentado por la LO 
+Este consiste en dos argumentos principales el punto de la prevención el cual
+contiene el impacto de la posibilidad de cambio a partir de las denuncias y la
+explicación de un contrafáctico sin explicar la factibilidad o la frecuencia del mismo 
+sobre la posibilidad de que las personas pertenecientes a estos sectores
+vulnerables decidan tomar la justicia por su propia mano lo cual recrudece la
+violencia ejercida por el Estado hacia dichas personas Adicionalmente existe el
+argumento del resentimiento que nos explica que la desconfianza no es un caldo de
+un único tazón sino que también es algo que se termina gestionando en las
+instituciones formales y genera que también haya desconfianza de las mismas hacia
+estos grupos de personas Este argumento si bien es introducido de manera
+satisfactoria presenta algunas deficiencias en el análisis sobre la mecanización
+para que esto efectivamente ocurra y tampoco existen impactos presentados en el
+mismo 
+Ambos argumentos presentan contenido razonable que invita a creer con mayor
+facilidad en la necesidad de que los padres de hecho eviten educar a sus hijos para
+tener una desconfianza absoluta en el sistema porque este podría funcionar para
+ellos aún si tiene deficiencias y problemas significativos en sus relaciones con
+personas pertenecientes a grupos vulnerables También es un caso que contribuye
+a creer que efectivamente existen situaciones donde la desconfianza se traduce en
+la existencia de mayores condiciones de riesgo y de peligro para dichas personas 
+chocando claramente con el principal punto del caso de gobierno que era el reducir
+al mínimo los riesgos para las personas pertenecientes a estos grupos Aunque las
+respuestas que trae VPM a ambos argumentos son tan débiles que podría decirse
+que los argumentos pasaron limpios en el choque de las altas hay que recordar
+que la no respuesta a un argumento no es un criterio válido en el sistema de debate
+32 
+del Parlamento Británico para evaluar la relevancia y la contribución a la carga de la
+prueba de un argumento Esto implica que pueden existir argumentos irrelevantes
+que hayan quedado sin responder y no por ello ahora se convierten mágicamente
+en más relevantes En el caso específico de este debate los argumentos
+presentados por el discurso de la LO son relevantes por su construcción
+argumentativa y por su contribución al caso de Oposición además de chocar
+directamente con lo presentado por la Alta de Gobierno En ese sentido la no
+respuesta de parte de la Alta de Gobierno no es necesariamente algo que se
+traduzca en un acierto para la Oposición sino que es más bien un error
+estratégicamente grave para el caso de la Alta de Gobierno 
+Finalmente el discurso del VLO termina por atar los cabos sueltos en el segundo
+argumento de la Lo el del backlash Lo hace explicando que la posibilidad de
+construir una buena reputación para las autoridades judiciales se hace a partir de la
+legitimidad que éstos tienen para actuar o para no hacerlo de cierta forma en el
+ejercicio de sus funciones Si el resentimiento dual hace que se entienda a los
+grupos vulnerables como violentos entonces ahora están legitimados los cuerpos
+policiales para actuar de forma represiva En cuanto hay una explicación en el
+discurso del VLO que nos dice que en el statu quo los padres enseñan a sus hijos
+múltiples cosas y no necesariamente una única cosa como en el lado del Gobierno 
+es entonces cuando se entiende que el cambio en la actitud represiva del Estado
+hacia los grupos vulnerables es mayor respecto de las actitudes represivas que ya
+existen en el mundo actual en caso de llegar a implementar la medida propuesta por
+el lado del gobierno Adicionalmente hay una explicación que nos dice que es cierto
+que las instituciones tienen sesgos pero estos son variables y jamás son
+enteramente únicos e indistinguibles entre institución A y B Ello implica que la
+existencia de una desconfianza generalizada podría impedir la obtención de
+beneficios de aquellas instituciones que desean cooperar con estos grupos al tratar
+de obstaculizar la acción de aquellas otras instituciones que desean violentar a
+estos grupos En resumen tenemos entonces una mayor represión en el lado del
+gobierno respecto de la que ya hay en el statu quo y encima tenemos la pérdida de
+los beneficios de aquellas instituciones que no actúan con la influencia del sesgo o
+que lo hacen en menor medida El discurso de VLO recuerda refutaciones
+provenientes del discurso de su LO y las choca debidamente con el caso contrario 
+especialmente para evidenciar los errores y fallas del discurso de VPM No son
+respuestas novedosas al provenir de su primer discurso pero su gestión y
+presentación son eficaces para terminar de derrotar lo poco que fue presentado
+durante el discurso del VPM 
+En conclusión La CAO le gana a la CAG porque su caso presenta una mayor
+factibilidad en la resolución de problemas para personas de estos grupos
+33 
+vulnerables o al menos en evitar que haya un recrudecimiento de los problemas
+para ellos En Gobierno es complicado entender cómo es que estas personas
+estarían bien y cómo es que el sistema cambiaría cuestiones ambas que Gobierno
+se propuso demostrar y que evidentemente no lo han logrado Adicionalmente CAO
+presenta refutaciones y respuestas claras hacia los planteamiento de CAG que no
+son debidamente resueltos por dicha cámara En la ponderación de impactos los
+presentados por CAO son más creíbles factibles impactan a mayor cantidad de
+personas y presentan un análisis de intensidad ausente en la CAG 
+Siendo los discursos de la CAG promedio o ligeramente inferior al promedio y
+siendo los discursos de CAO promedio o ligeramente superiores al promedio 
+Puntos de persona oradora esperables 
+CAG 72 73 72 73 
+CAO 74 77 75 76 
+Output:
+Resultado OG pierde frente a OO
+Análisis de la comparativa
